@@ -1,6 +1,4 @@
-# Writing Tools Document Screenshot
-
-Tools I use for fiction writing as of June 20, 2025.
+# Tools I use for fiction writing as of June 20, 2025.
 
 ![Writing Tools Screenshot](Screenshot_2025-06-20.png)
 
@@ -13,7 +11,7 @@ The image displays the layout for the applications I am using.
 
 ## Left to Right:
 
-- Edge browser displaying the scene I'm currently working on. I use a couple of the browser extensions, readability and word count. I also use the built in Read Aloud feature to read the text, it helps me stay focused a little better. I use a browser extension too render the scene markdown file.
+- Edge browser displaying the scene I'm currently working on. I use a couple of the browser extensions, readability and word count. I also use the built in Read Aloud feature to read the text, it helps me stay focused a little better. I use a browser extension too render the scene markdown file too.
 
 <br>
 
