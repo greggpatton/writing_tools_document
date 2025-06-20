@@ -4,7 +4,7 @@
 
 ## Image Details
 
-- **Screens**: Left: 1080p  Right: 4k (This makes me think I need another 4K monitor.)
+**Screens**: Left: 1080p  Right: 4k (This makes me think I need another 4K monitor.)
 
 The image displays the layout for the applications I am using.
 
@@ -35,7 +35,11 @@ The image displays the layout for the applications I am using.
 
 <br><br>
 
-- Claude Desktop showing parts of the chat I'm using. When I'm finished with Claude updates I tell it to update the file. I start a new chat thread for each scene. Trying to do more than one scene or down to one beat at a time produced more continuity errors. So, smaller files but not too small is what I take from this.
+- Claude Desktop showing parts of the chat I'm using. When I'm finished with Claude Desktop interaction/beat editing, I tell it to update the file, which of course is DesktopCommander. 
+
+- I start a new chat thread for each scene.
+
+- Trying to do more than one scene or working on one beat at a time produced more continuity errors. Use smaller files but not too small, is what I take from this.
 
 <br>
 
